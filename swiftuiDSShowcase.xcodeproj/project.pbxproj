@@ -52,6 +52,7 @@
 		1B459B722C00F35000253B9C /* swiftuiDSShowcase */ = {
 			isa = PBXGroup;
 			children = (
+				1B459B822C00F37400253B9C /* Design System */,
 				1B459B732C00F35000253B9C /* swiftuiDSShowcaseApp.swift */,
 				1B459B752C00F35000253B9C /* ContentView.swift */,
 				1B459B772C00F35100253B9C /* Assets.xcassets */,
@@ -67,6 +68,13 @@
 				1B459B7B2C00F35100253B9C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1B459B822C00F37400253B9C /* Design System */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Design System";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
